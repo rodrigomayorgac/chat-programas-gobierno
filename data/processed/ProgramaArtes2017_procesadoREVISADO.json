@@ -1,0 +1,299 @@
+{
+  "titulo": "Programa Político Básico de Unión Patriótica",
+  "secciones": [
+    {
+      "titulo": "Índice",
+      "nivel": 1,
+      "pagina": 1,
+      "secciones": []
+    },
+    {
+      "titulo": "Preámbulo",
+      "nivel": 1,
+      "pagina": 2,
+      "secciones": [
+        {
+          "titulo": "El legado de la Unidad Popular",
+          "nivel": 2,
+          "pagina": 2,
+          "secciones": []
+        },
+        {
+          "titulo": "Seguridad alimentaria",
+          "nivel": 2,
+          "pagina": 4,
+          "secciones": []
+        },
+        {
+          "titulo": "Seguridad energética",
+          "nivel": 2,
+          "pagina": 6,
+          "secciones": []
+        },
+        {
+          "titulo": "La propiedad",
+          "nivel": 2,
+          "pagina": 9,
+          "secciones": []
+        },
+        {
+          "titulo": "Lecciones históricas",
+          "nivel": 2,
+          "pagina": 9,
+          "secciones": []
+        },
+        {
+          "titulo": "Asamblea Constituyente",
+          "nivel": 2,
+          "pagina": 10,
+          "secciones": []
+        },
+        {
+          "titulo": "Libertad",
+          "nivel": 2,
+          "pagina": 10,
+          "secciones": []
+        },
+        {
+          "titulo": "Política internacional",
+          "nivel": 2,
+          "pagina": 10,
+          "secciones": []
+        },
+        {
+          "titulo": "Palabras finales",
+          "nivel": 2,
+          "pagina": 11,
+          "secciones": []
+        }
+      ]
+    },
+    {
+      "titulo": "El programa",
+      "nivel": 1,
+      "pagina": 12,
+      "secciones": [
+        {
+          "titulo": "La Refundación de Chile",
+          "nivel": 2,
+          "pagina": 12,
+          "secciones": [
+        
+            {
+              "titulo": "Asamblea Constituyente",
+              "nivel": 3,
+              "pagina": 13,
+              "secciones": []
+            {
+              "titulo": "Independencia económica y política",
+              "nivel": 3,
+              "pagina": 13,
+              "secciones": []
+            },
+            {
+              "titulo": "Garantías democráticas",
+              "nivel": 3,
+              "pagina": 13,
+              "secciones": []
+            },
+            {
+              "titulo": "Gobierno y oposición",
+              "nivel": 3,
+              "pagina": 14,
+              "secciones": []
+            },
+            {
+              "titulo": "Planes de plazo inmediato",
+              "nivel": 3,
+              "pagina": 15,
+              "secciones": []
+            },
+            {
+              "titulo": "Nueva economía y el desarrollo de una industria nacional",
+              "nivel": 3,
+              "pagina": 15,
+              "secciones": []
+            },
+            {
+              "titulo": "Cibernética, desarrollo industrial e inteligencia artificial",
+              "nivel": 3,
+              "pagina": 22,
+              "secciones": []
+            },
+
+            {
+              "titulo": "Deuda y Gasto Público",
+              "nivel": 3,
+              "pagina": 22,
+              "secciones": []
+            },
+            {
+              "titulo": "Reservas Internacionales y oro",
+              "nivel": 3,
+              "pagina": 23,
+              "secciones": []
+            },
+            {
+              "titulo": "Reforma tributaria y distribución del ingreso",
+              "nivel": 3,
+              "pagina": 25,
+              "secciones": []
+            },
+            {
+              "titulo": "Gobierno austero",
+              "nivel": 3,
+              "pagina": 26,
+              "secciones": []
+            },
+            {
+              "titulo": "Derecho al trabajo y el deber de trabajar",
+              "nivel": 3,
+              "pagina": 27,
+              "secciones": []
+            },
+            {
+              "titulo": "Estabilidad monetaria",
+              "nivel": 3,
+              "pagina": 29,
+              "secciones": []
+            },
+            {
+              "titulo": "Política internacional",
+              "nivel": 3,
+              "pagina": 30,
+              "secciones": []
+            }
+          ]
+        },
+        {
+          "titulo": "Un nuevo orden institucional",
+          "nivel": 2,
+          "pagina": 32,
+          "secciones": [
+            {
+              "titulo": "Estado plurinacional",
+              "nivel": 3,
+              "pagina": 32,
+              "secciones": []
+            },
+            {
+              "titulo": "Organización política",
+              "nivel": 3,
+              "pagina": 33,
+              "secciones": []
+            },
+            {
+              "titulo": "Descentralización administrativa",
+              "nivel": 3,
+              "pagina": 34,
+              "secciones": []
+            },
+            {
+              "titulo": "Organización de la justicia",
+              "nivel": 3,
+              "pagina": 35,
+              "secciones": []
+            },
+            {
+              "titulo": "Refundación de las Fuerzas Armadas y de Orden",
+              "nivel": 3,
+              "pagina": 35,
+              "secciones": []
+            }
+          ]
+        },
+        {
+          "titulo": "Tareas sociales",
+          "nivel": 2,
+          "pagina": 36,
+          "secciones": [
+            {
+              "titulo": "Justicia",
+              "nivel": 3,
+              "pagina": 35,
+              "secciones": []
+            },
+            {
+              "titulo": "Sistema penitenciario y carcelario",
+              "nivel": 3,
+              "pagina": 36,
+              "secciones": []
+            },
+            {
+              "titulo": "Educación",
+              "nivel": 3,
+              "pagina": 39,
+              "secciones": []
+            },
+            {
+              "titulo": "Salud",
+              "nivel": 3,
+              "pagina": 40,
+              "secciones": []
+            },
+            {
+              "titulo": "Desarrollo sustentable",
+              "nivel": 3,
+              "pagina": 43,
+              "secciones": []
+            },
+            {
+              "titulo": "Defensa del laicismo",
+              "nivel": 3,
+              "pagina": 45,
+              "secciones": []
+            },
+            {
+              "titulo": "Emancipación de la mujer popular",
+              "nivel": 3,
+              "pagina": 45,
+              "secciones": []
+            },
+            {
+              "titulo": "Diversidad sexual",
+              "nivel": 3,
+              "pagina": 46,
+              "secciones": []
+            },
+            {
+              "titulo": "Inmigración y racismo",
+              "nivel": 3,
+              "pagina": 47,
+              "secciones": []
+            },
+            {
+              "titulo": "Derecho a la vivienda y deuda habitacional",
+              "nivel": 3,
+              "pagina": 48,
+              "secciones": []
+            },
+            {
+              "titulo": "Crimen organizado",
+              "nivel": 3,
+              "pagina": 48,
+              "secciones": []
+            },
+            {
+              "titulo": "Derecho al transporte público",
+              "nivel": 3,
+              "pagina": 49,
+              "secciones": []
+            },
+            {
+              "titulo": "¿Y qué tan rápido todo esto?",
+              "nivel": 3,
+              "pagina": 50,
+              "secciones": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Despedida",
+      "nivel": 1,
+      "pagina": 52,
+      "secciones": []
+    }
+  ]
+}
